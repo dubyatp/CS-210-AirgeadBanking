@@ -16,3 +16,26 @@ The first report simulates a recurring monthly deposit (specified from the user 
 
 ![Investment reports](screenshots/InvestmentReports.png)
 
+### Reflection
+#### What did I do well?
+I think for the most part, this was a very successful project for CS-210. Out of the three projects we did, this is the one i'm the most proud of. 
+
+This was my first time really diving deep with C++, particularly the data handling features. Using Vectors (in a vector) and For Loops, I was able to facilitate a standard method of transferring multiple variables of data through the various functions while keeping track which year the set of variables belong do. 
+
+#### What could be improved?
+There are definitely some efficiencies that could be added in the future, I am still a beginner in C++ and attempted to use best practices and optimize my code to ensure it's fast and efficient on memory. 
+
+#### Any challenges?
+For sure. As mentioned, I haven't really done much with C++ prior to this course, and keeping track of final balances per year (data management) was a huge bulk of the debugging work I was doing for this project, almost to the point where I was worried about running out of time. However, I prevailed and was able to get a functional method of storing data using vectors-in-vectors. 
+
+First I tried to use arrays, but I learned quickly that it wasn't going to be adequete for this project, and I needed to use vectors, which I was less comfortable with. After finishing this project, I am much more familiar and comfortable with not just vectors, but also vectors inside of vectors!
+
+#### Real-life
+I've made scripts before for my systems administration job, however usually they're not really "applications" like this project was, and they're typically only designed to do a specific, tedious task (such as logging in via SSH and sending a command to hundreds of routers and network switches), maybe with a variable or two.
+
+This project gave me much more exposure to data manipulation, storage, and UI elements that I otherwise didn't really care much for prior. 
+
+#### Maintainability and Readability
+Classes and functions were utilized as much as possible. I did use main() for some critical operations, but kept it's use minimal. Line comments were common throughout every code file.
+
+A lot of it is adaptable for other uses too. I used some of my vector-in-vector code for the next project.
