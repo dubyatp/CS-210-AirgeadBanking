@@ -1,6 +1,9 @@
 # CS-210 Project 2 - Airgead Banking Calculator
 Designed to provide school students with proper financial literacy skills, the Airgead Banking Savings Simulator provides an outlook on how you choose to invest. 
 
+**DISCLAIMER: This code repo was set to the public in June 2022, this should be used as a reference only. Don't copy it and call it your own! I don't condone cheating, and you will likely be in violation of SNHU's academic integrity policy.**
+
+
 ### Functionality
 When opened, the user is prompted to enter;
 1. Opening deposit amount
